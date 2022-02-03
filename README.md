@@ -1,8 +1,8 @@
 # review-app
 
 To run the app in local machine follow the below steps:
-- npm install
-- npm start
+- yarn install
+- yarn start
 
 Things Used in the app-
 - Windowing list using react-virtualized
