@@ -1,6 +1,6 @@
 # review-app
 
-To run the app in local machine follow the below steps:
+To run the app on local machine follow the below steps:
 - yarn install
 - yarn start
 
